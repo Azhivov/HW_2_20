@@ -3,3 +3,11 @@
 /.idea/
 /.out/
 *.iml
+
+/build.gradle
+/build-spring-boot.gradle
+/gradlew
+/gradlew.bat
+/pom.xml
+/pom-spring-boot.xml
+/settings.gradle
